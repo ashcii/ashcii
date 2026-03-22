@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Basic Python Coding
 - 💞️ I’m looking to collaborate on ... Basic Python Coding
 - 📫 How to reach me ... ashcii@proton.me
-- 😄 Pronouns: ... he/him/guy
+- 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... i have a realitivly high ICU for my age
 
 <!---
